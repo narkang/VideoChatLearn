@@ -2,5 +2,7 @@
 
 效果演示
 
-![img](img/img.png)
+<p align="center">
+<img src="https://github.com/narkang/VideoChatLearn/blob/main/img/img.png"/>
+</p>
 
