@@ -1,0 +1,3 @@
+include ':VideoChatB'
+include ':VideoChatA'
+rootProject.name = "VideoChatLearn"
